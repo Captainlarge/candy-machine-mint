@@ -1,0 +1,17 @@
+.center {
+  text-align: center;
+}
+
+.background {
+  background-image: url(background.jpeg);
+}
+
+@font-face {
+  font-family: alienfont;
+  src: url(RobotInvaders-d9VmR.ttf);
+}
+
+#root {
+  text-align: center;
+  text-anchor: middle;
+}
